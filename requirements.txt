@@ -1,0 +1,24 @@
+# Core dependencies discovered from notebooks
+numpy
+pandas
+matplotlib
+seaborn
+scikit-learn
+torch
+torchvision
+tensorflow
+Pillow
+opencv-python
+librosa
+soundfile
+tqdm
+scipy
+mediapipe
+jax
+pyarrow
+requests
+sentencepiece
+
+# Optional/extra (uncomment if required)
+# transformers
+# pytorchvideo

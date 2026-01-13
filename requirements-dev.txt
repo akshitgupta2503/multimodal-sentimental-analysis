@@ -1,0 +1,4 @@
+# Developer dependencies for CI and testing
+flake8
+pytest
+nbval
